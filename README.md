@@ -483,6 +483,8 @@ Total deals: 330
 | -- | ---| ------ | ------ |
 |  🐿️ | [Chipmunk Theme](https://chipmunktheme.com) | Launch Your Directory Website Today with Our User-Friendly WordPress Theme 🚀 | 40% OFF with code **BLACKFRIDAY24** |
 |  😺 | [Gato GraphQL](https://gatographql.com) | Powerful and flexible GraphQL server for WordPress: Access Control, HTTP Caching, Persisted Queries, Custom Endpoints, and more | 50% OFF, including LTD! Use code **BF2024** (Until Nov 29th) |
+|  🔥 | [Bricks Builder addon Wordpress GSAP (https://nextbricks.io/) & (https://figpress.io/) | Beautiful elements and smart features for Bricks Builder. Copy and paste Figma designs into your builder. Easy and fast.
+The single plugin you need to create smart outstanding sites | 20% OFF, LTD! Use code **BLACK20** |
 
 
 [⬆️ Go to Top](#table-of-contents)
